@@ -1,0 +1,30 @@
+Populacao:
+Id: PauloPires1
+Idade:23 
+Estado:S
+
+Id: AnaLebre34A
+Idade:55 
+Estado:I
+
+Id: Tomas111
+Idade:12 
+Estado:S
+
+Id: PauloPires2
+Idade:67 
+Estado:S
+
+Id: LuisaSantos
+Idade:40 
+Estado:D
+Dias de infecao: 7
+
+Id: Zulmira2A
+Idade:17 
+Estado:S
+
+Id: renato
+Idade:20 
+Estado:S
+

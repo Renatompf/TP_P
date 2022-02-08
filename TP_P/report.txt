@@ -1,0 +1,28 @@
+Populacao:
+Total de pessoas: 6
+Numero de infetados: 1
+Numero de pessoas com estado saudavel: 3
+Numero de pessoas imunes: 2
+Total de pessoas saudaveis: 5
+
+Distribuicao da populacao:
+Local 1:
+LuisaSantos
+
+Local 2:
+
+Local 3:
+PauloPires1
+Tomas111
+PauloPires2
+Zulmira2A
+
+Local 4:
+AnaLebre34A
+
+Taxas:
+Taxa de pessoas infetadas: 0.17
+Taxa de pessoas com estado saudavel: 0.50
+Taxa de pessoas imunes: 0.33
+Taxa de pessoas saudaveis: 0.83
+A sala com maior nr de infetados e 1
